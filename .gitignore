@@ -3,3 +3,8 @@
 ################################################################################
 
 /ToLowerCase/bin/Debug
+/ToLowerCase/obj/Debug
+/NumJewelsInStones/obj/Debug
+/NumJewelsInStones/bin/Debug
+/LeetCode/obj/Debug
+/LeetCode/bin/Debug
