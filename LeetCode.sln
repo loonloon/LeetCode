@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayPairSum", "ArrayPairSu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindWords", "FindWords\FindWords.csproj", "{9E18FEC6-0DDB-424D-8D57-AD2C5A9BF6FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalPoints", "CalPoints\CalPoints.csproj", "{B8871EF1-E340-4D5E-B5B9-787ED3366291}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{9E18FEC6-0DDB-424D-8D57-AD2C5A9BF6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E18FEC6-0DDB-424D-8D57-AD2C5A9BF6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E18FEC6-0DDB-424D-8D57-AD2C5A9BF6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8871EF1-E340-4D5E-B5B9-787ED3366291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8871EF1-E340-4D5E-B5B9-787ED3366291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8871EF1-E340-4D5E-B5B9-787ED3366291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8871EF1-E340-4D5E-B5B9-787ED3366291}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
