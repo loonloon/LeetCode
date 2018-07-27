@@ -1,5 +1,9 @@
 ﻿using System.Linq;
 
+/*
+ * 771. Jewels and Stones
+ * https://leetcode.com/problems/jewels-and-stones/description/
+ */
 namespace NumJewelsInStones
 {
     class Program
@@ -13,6 +17,15 @@ namespace NumJewelsInStones
          * All characters in J and S are letters.
          * Letters are case sensitive, so "a" is considered a different type of stone from "A".
          * S and J will consist of letters and have length at most 50.
+         *
+         * Example 1:
+         * Input: J = "aA", S = "aAAbbbb"
+         * Output: 3
+         *
+         * Example 2:
+         * Input: J = "z", S = "ZZ"
+         * Output: 0
+         *
          */
         static void Main(string[] args)
         {
