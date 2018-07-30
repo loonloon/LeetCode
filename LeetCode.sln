@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intersection", "Intersectio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanConstruct", "CanConstruct\CanConstruct.csproj", "{741BA978-8B06-4433-9CF8-17E53AF4B6DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree2str", "Tree2str\Tree2str.csproj", "{10F23BD3-519E-4FCB-AC67-A54AAE961ABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestToChar", "ShortestToChar\ShortestToChar.csproj", "{C454CF6A-9CD1-4ECB-BDBE-21586BBF71E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +187,14 @@ Global
 		{741BA978-8B06-4433-9CF8-17E53AF4B6DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{741BA978-8B06-4433-9CF8-17E53AF4B6DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{741BA978-8B06-4433-9CF8-17E53AF4B6DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F23BD3-519E-4FCB-AC67-A54AAE961ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F23BD3-519E-4FCB-AC67-A54AAE961ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F23BD3-519E-4FCB-AC67-A54AAE961ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F23BD3-519E-4FCB-AC67-A54AAE961ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C454CF6A-9CD1-4ECB-BDBE-21586BBF71E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C454CF6A-9CD1-4ECB-BDBE-21586BBF71E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C454CF6A-9CD1-4ECB-BDBE-21586BBF71E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C454CF6A-9CD1-4ECB-BDBE-21586BBF71E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
