@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-/*
+﻿/*
  * 389. Find the Difference
  * https://leetcode.com/problems/find-the-difference/description/
  */
+
 namespace FindTheDifference
 {
     class Program
@@ -31,11 +26,20 @@ namespace FindTheDifference
          */
         static void Main(string[] args)
         {
+            var result = FindTheDifference("abcd", "abcde");
         }
 
         public static char FindTheDifference(string s, string t)
         {
+            var chars = string.Concat(s, t).ToCharArray();
+            var differentChar = '\0';
 
+            foreach (var c in chars)
+            {
+                differentChar ^= c;
+            }
+
+            return differentChar;
         }
     }
 }
