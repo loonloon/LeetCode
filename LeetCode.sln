@@ -69,6 +69,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryGap", "BinaryGap\Bina
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubdomainVisits", "SubdomainVisits\SubdomainVisits.csproj", "{97F4CF04-9612-4809-8EFF-D42062660A8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeafSimilar", "LeafSimilar\LeafSimilar.csproj", "{845B3911-807D-4846-9D27-95B76EDD8529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transpose", "Transpose\Transpose.csproj", "{DC4F0D3C-1F59-4615-905D-EC1E991BF8A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +211,14 @@ Global
 		{97F4CF04-9612-4809-8EFF-D42062660A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97F4CF04-9612-4809-8EFF-D42062660A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97F4CF04-9612-4809-8EFF-D42062660A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845B3911-807D-4846-9D27-95B76EDD8529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845B3911-807D-4846-9D27-95B76EDD8529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845B3911-807D-4846-9D27-95B76EDD8529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845B3911-807D-4846-9D27-95B76EDD8529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC4F0D3C-1F59-4615-905D-EC1E991BF8A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4F0D3C-1F59-4615-905D-EC1E991BF8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4F0D3C-1F59-4615-905D-EC1E991BF8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4F0D3C-1F59-4615-905D-EC1E991BF8A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
