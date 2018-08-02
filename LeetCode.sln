@@ -73,6 +73,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeafSimilar", "LeafSimilar\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transpose", "Transpose\Transpose.csproj", "{DC4F0D3C-1F59-4615-905D-EC1E991BF8A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfDividingNumbers", "SelfDividingNumbers\SelfDividingNumbers.csproj", "{765DBBB4-58FA-48F8-9A2B-B7B841666B72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeakIndexInMountainArray", "PeakIndexInMountainArray\PeakIndexInMountainArray.csproj", "{98498CDC-C270-48A3-9760-B0E297F8A2E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +223,14 @@ Global
 		{DC4F0D3C-1F59-4615-905D-EC1E991BF8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC4F0D3C-1F59-4615-905D-EC1E991BF8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC4F0D3C-1F59-4615-905D-EC1E991BF8A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765DBBB4-58FA-48F8-9A2B-B7B841666B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765DBBB4-58FA-48F8-9A2B-B7B841666B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765DBBB4-58FA-48F8-9A2B-B7B841666B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765DBBB4-58FA-48F8-9A2B-B7B841666B72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98498CDC-C270-48A3-9760-B0E297F8A2E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98498CDC-C270-48A3-9760-B0E297F8A2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98498CDC-C270-48A3-9760-B0E297F8A2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98498CDC-C270-48A3-9760-B0E297F8A2E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
