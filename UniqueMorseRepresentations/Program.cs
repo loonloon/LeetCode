@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 /*
  * 804. Unique Morse Code Words
@@ -45,11 +43,31 @@ namespace UniqueMorseRepresentations
          */
         static void Main(string[] args)
         {
+            var result = UniqueMorseRepresentations(new[] { "gin", "zen", "gig", "msg" });
         }
 
         public static int UniqueMorseRepresentations(string[] words)
         {
+            var morseCode = new[]
+            {
+                ".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..", ".---", "-.-", ".-..", "--",
+                "-.", "---", ".--.", "--.-", ".-.", "...", "-", "..-", "...-", ".--", "-..-", "-.--", "--.."
+            };
+            var transformation = new List<string>();
 
+            foreach (var word in words)
+            {
+                var result = new StringBuilder();
+
+                foreach (var character in word)
+                {
+                    result.Append(morseCode[character - 'a']);
+                }
+
+                transformation.Add(result.ToString());
+            }
+
+            return transformation.Distinct().Count();
         }
     }
 }
