@@ -1,7 +1,11 @@
-﻿/*
+﻿using System.Linq;
+using System.Text;
+
+/*
  * 824. Goat Latin
  * https://leetcode.com/problems/goat-latin/description/
  */
+
 namespace ToGoatLatin
 {
     class Program
@@ -44,7 +48,24 @@ namespace ToGoatLatin
 
         public static string ToGoatLatin(string S)
         {
+            var vowel = new[] { 'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U' };
+            var goatLatin = new StringBuilder();
+            var words = S.Split(' ');
+            int j, i = 0;
 
+            foreach (var word in words)
+            {
+                goatLatin.Append(" ");
+                goatLatin.Append(vowel.Contains(word[0]) ? word : $"{word.Substring(1)}{word[0]}");
+                goatLatin.Append("ma");
+
+                for (j = 0, i++; j < i; j++)
+                {
+                    goatLatin.Append("a");
+                }
+            }
+
+            return goatLatin.ToString().Substring(1);
         }
     }
 }
