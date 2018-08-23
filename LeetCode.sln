@@ -123,6 +123,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMoves", "MinMoves\MinMov
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetMinimumDifference", "GetMinimumDifference\GetMinimumDifference.csproj", "{A3F97864-3883-414D-9449-53743F446CCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxProfit", "MaxProfit\MaxProfit.csproj", "{D3AB2F28-83C9-4B28-9CA1-A35EF82761AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -369,6 +371,10 @@ Global
 		{A3F97864-3883-414D-9449-53743F446CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3F97864-3883-414D-9449-53743F446CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3F97864-3883-414D-9449-53743F446CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3AB2F28-83C9-4B28-9CA1-A35EF82761AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AB2F28-83C9-4B28-9CA1-A35EF82761AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AB2F28-83C9-4B28-9CA1-A35EF82761AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AB2F28-83C9-4B28-9CA1-A35EF82761AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
