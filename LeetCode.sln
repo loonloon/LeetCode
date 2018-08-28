@@ -133,6 +133,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostCommonWord", "MostCommo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstUniqChar", "FirstUniqChar\FirstUniqChar.csproj", "{ABE69E2F-57C9-4E49-8717-ED13A58C399F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{6958D060-1C97-4FC6-AB4B-55561FD4DE87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -399,6 +401,10 @@ Global
 		{ABE69E2F-57C9-4E49-8717-ED13A58C399F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABE69E2F-57C9-4E49-8717-ED13A58C399F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABE69E2F-57C9-4E49-8717-ED13A58C399F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6958D060-1C97-4FC6-AB4B-55561FD4DE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6958D060-1C97-4FC6-AB4B-55561FD4DE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6958D060-1C97-4FC6-AB4B-55561FD4DE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6958D060-1C97-4FC6-AB4B-55561FD4DE87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
