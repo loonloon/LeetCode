@@ -153,6 +153,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseList", "ReverseList\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteDuplicates", "DeleteDuplicates\DeleteDuplicates.csproj", "{A32FFEAB-0843-4BF6-A03D-79ABC886A5FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsOneBitCharacter", "IsOneBitCharacter\IsOneBitCharacter.csproj", "{801C0D5C-42A9-493D-B757-43545C849F9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseStr", "ReverseStr\ReverseStr.csproj", "{76F94963-4C2E-4569-BE2E-645424D14D47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -459,6 +463,14 @@ Global
 		{A32FFEAB-0843-4BF6-A03D-79ABC886A5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A32FFEAB-0843-4BF6-A03D-79ABC886A5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A32FFEAB-0843-4BF6-A03D-79ABC886A5FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{801C0D5C-42A9-493D-B757-43545C849F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801C0D5C-42A9-493D-B757-43545C849F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801C0D5C-42A9-493D-B757-43545C849F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801C0D5C-42A9-493D-B757-43545C849F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F94963-4C2E-4569-BE2E-645424D14D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F94963-4C2E-4569-BE2E-645424D14D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F94963-4C2E-4569-BE2E-645424D14D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F94963-4C2E-4569-BE2E-645424D14D47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
