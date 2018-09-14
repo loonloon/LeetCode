@@ -161,6 +161,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicates", "RemoveD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountSegments", "CountSegments\CountSegments.csproj", "{0E181CD9-1F83-48AC-A6EB-FA523702FC46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HammingWeight", "HammingWeight\HammingWeight.csproj", "{58D2D44F-BDDF-4FB9-A2FA-00086A7AD3B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToHex", "ToHex\ToHex.csproj", "{ABA8DCDF-C34E-4C42-8C58-81E69CCC08C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -483,6 +487,14 @@ Global
 		{0E181CD9-1F83-48AC-A6EB-FA523702FC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E181CD9-1F83-48AC-A6EB-FA523702FC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E181CD9-1F83-48AC-A6EB-FA523702FC46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58D2D44F-BDDF-4FB9-A2FA-00086A7AD3B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D2D44F-BDDF-4FB9-A2FA-00086A7AD3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D2D44F-BDDF-4FB9-A2FA-00086A7AD3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D2D44F-BDDF-4FB9-A2FA-00086A7AD3B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA8DCDF-C34E-4C42-8C58-81E69CCC08C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA8DCDF-C34E-4C42-8C58-81E69CCC08C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA8DCDF-C34E-4C42-8C58-81E69CCC08C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA8DCDF-C34E-4C42-8C58-81E69CCC08C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

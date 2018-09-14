@@ -179,3 +179,5 @@
 /RemoveDuplicates/bin/Debug
 /RemoveDuplicates/obj/Debug
 /CountSegments/bin/Debug
+/HammingWeight/obj/Debug
+/ToHex
