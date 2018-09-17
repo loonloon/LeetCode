@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2026
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToLowerCase", "ToLowerCase\ToLowerCase.csproj", "{A94E5A61-7E0C-443E-878E-B353F495BC6E}"
 EndProject
@@ -170,6 +170,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{514FD5BA-3527-4608-AE5E-CFC23859258F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsHappy", "IsHappy\IsHappy.csproj", "{7386FBBD-42FA-4A2A-914F-EFCBE82A4A84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsert", "SearchInsert\SearchInsert.csproj", "{C2627EEA-30A1-44C4-A8B6-A3A901C26206}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -513,6 +515,10 @@ Global
 		{7386FBBD-42FA-4A2A-914F-EFCBE82A4A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7386FBBD-42FA-4A2A-914F-EFCBE82A4A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7386FBBD-42FA-4A2A-914F-EFCBE82A4A84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2627EEA-30A1-44C4-A8B6-A3A901C26206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2627EEA-30A1-44C4-A8B6-A3A901C26206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2627EEA-30A1-44C4-A8B6-A3A901C26206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2627EEA-30A1-44C4-A8B6-A3A901C26206}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
