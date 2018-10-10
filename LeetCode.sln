@@ -181,6 +181,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBinary", "AddBinary\AddB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search", "Search\Search.csproj", "{04B11FB7-8B42-485C-A753-BA7ABE5423DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertBST", "ConvertBST\ConvertBST.csproj", "{7D80C625-CAC2-4020-A536-320DE33796A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinDiffInBST", "MinDiffInBST\MinDiffInBST.csproj", "{C6B21F3E-37CF-4F0B-9D7D-0226F1E6756F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -543,6 +547,14 @@ Global
 		{04B11FB7-8B42-485C-A753-BA7ABE5423DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04B11FB7-8B42-485C-A753-BA7ABE5423DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04B11FB7-8B42-485C-A753-BA7ABE5423DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D80C625-CAC2-4020-A536-320DE33796A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D80C625-CAC2-4020-A536-320DE33796A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D80C625-CAC2-4020-A536-320DE33796A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D80C625-CAC2-4020-A536-320DE33796A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6B21F3E-37CF-4F0B-9D7D-0226F1E6756F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B21F3E-37CF-4F0B-9D7D-0226F1E6756F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B21F3E-37CF-4F0B-9D7D-0226F1E6756F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B21F3E-37CF-4F0B-9D7D-0226F1E6756F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
