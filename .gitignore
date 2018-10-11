@@ -352,3 +352,7 @@
 /MostCommonWord/obj/Release
 /MinMoves/obj/Release/MinMoves.csproj.CoreCompileInputs.cache
 /MinMoves/obj/Release
+/BackspaceCompare/bin/Debug
+/NextGreatestLetter/bin/Debug
+/BackspaceCompare/obj/Debug
+/NextGreatestLetter/obj/Debug
