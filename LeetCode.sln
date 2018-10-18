@@ -189,6 +189,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextGreatestLetter", "NextG
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackspaceCompare", "BackspaceCompare\BackspaceCompare.csproj", "{3BFF7C7B-CCC8-4C85-8FAC-5F22E87DF2B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindAnagrams", "FindAnagrams\FindAnagrams.csproj", "{3B3D6031-7638-448F-AEC1-97EAD287438D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -567,6 +569,10 @@ Global
 		{3BFF7C7B-CCC8-4C85-8FAC-5F22E87DF2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BFF7C7B-CCC8-4C85-8FAC-5F22E87DF2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BFF7C7B-CCC8-4C85-8FAC-5F22E87DF2B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3D6031-7638-448F-AEC1-97EAD287438D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3D6031-7638-448F-AEC1-97EAD287438D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3D6031-7638-448F-AEC1-97EAD287438D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3D6031-7638-448F-AEC1-97EAD287438D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
