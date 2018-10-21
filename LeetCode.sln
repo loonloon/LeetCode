@@ -191,6 +191,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackspaceCompare", "Backspa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindAnagrams", "FindAnagrams\FindAnagrams.csproj", "{3B3D6031-7638-448F-AEC1-97EAD287438D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intersect", "Intersect\Intersect.csproj", "{B5722361-A865-40C7-9A45-656D66A4CCBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoLists", "MergeTwoLists\MergeTwoLists.csproj", "{3C70FB89-AF93-47FD-BF68-6D63003CD3A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -573,6 +577,14 @@ Global
 		{3B3D6031-7638-448F-AEC1-97EAD287438D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B3D6031-7638-448F-AEC1-97EAD287438D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B3D6031-7638-448F-AEC1-97EAD287438D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5722361-A865-40C7-9A45-656D66A4CCBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5722361-A865-40C7-9A45-656D66A4CCBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5722361-A865-40C7-9A45-656D66A4CCBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5722361-A865-40C7-9A45-656D66A4CCBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C70FB89-AF93-47FD-BF68-6D63003CD3A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C70FB89-AF93-47FD-BF68-6D63003CD3A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C70FB89-AF93-47FD-BF68-6D63003CD3A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C70FB89-AF93-47FD-BF68-6D63003CD3A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
