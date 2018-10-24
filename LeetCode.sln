@@ -195,6 +195,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intersect", "Intersect\Inte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoLists", "MergeTwoLists\MergeTwoLists.csproj", "{3C70FB89-AF93-47FD-BF68-6D63003CD3A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindShortestSubArray", "FindShortestSubArray\FindShortestSubArray.csproj", "{AB3161D2-C15C-4A4D-A2FA-08BFD3355166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLengthOfLCIS", "FindLengthOfLCIS\FindLengthOfLCIS.csproj", "{0952071E-0973-4401-9B1B-A9CD395CA2EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -585,6 +589,14 @@ Global
 		{3C70FB89-AF93-47FD-BF68-6D63003CD3A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C70FB89-AF93-47FD-BF68-6D63003CD3A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C70FB89-AF93-47FD-BF68-6D63003CD3A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB3161D2-C15C-4A4D-A2FA-08BFD3355166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3161D2-C15C-4A4D-A2FA-08BFD3355166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3161D2-C15C-4A4D-A2FA-08BFD3355166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3161D2-C15C-4A4D-A2FA-08BFD3355166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0952071E-0973-4401-9B1B-A9CD395CA2EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0952071E-0973-4401-9B1B-A9CD395CA2EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0952071E-0973-4401-9B1B-A9CD395CA2EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0952071E-0973-4401-9B1B-A9CD395CA2EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
