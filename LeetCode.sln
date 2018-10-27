@@ -199,6 +199,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindShortestSubArray", "Fin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLengthOfLCIS", "FindLengthOfLCIS\FindLengthOfLCIS.csproj", "{0952071E-0973-4401-9B1B-A9CD395CA2EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxProfit2", "MaxProfit2\MaxProfit2.csproj", "{0B2FB75F-CD20-4FB1-B4AC-9582EDB80D45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -597,6 +599,10 @@ Global
 		{0952071E-0973-4401-9B1B-A9CD395CA2EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0952071E-0973-4401-9B1B-A9CD395CA2EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0952071E-0973-4401-9B1B-A9CD395CA2EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B2FB75F-CD20-4FB1-B4AC-9582EDB80D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2FB75F-CD20-4FB1-B4AC-9582EDB80D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2FB75F-CD20-4FB1-B4AC-9582EDB80D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2FB75F-CD20-4FB1-B4AC-9582EDB80D45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

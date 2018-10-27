@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-/*
+﻿/*
  * 122. Best Time to Buy and Sell Stock II
  * https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
  */
