@@ -369,11 +369,11 @@
 /MaxProfit2/obj/Debug
 /CheckRecord/obj/Debug
 /CheckRecord/bin/Debug
-/SortArrayByParity/obj/Debug
-/SortArrayByParity
 /BackspaceCompare/obj/Release
 /Intersect/obj/Release
 /FindShortestSubArray/obj/Release
 /FindLengthOfLCIS/obj/Release
 /FindAnagrams/obj/Release
 /CheckRecord/obj/Release
+/SortArrayByParity/bin/Debug
+/SortArrayByParity/obj/Debug
