@@ -201,6 +201,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLengthOfLCIS", "FindLen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxProfit2", "MaxProfit2\MaxProfit2.csproj", "{0B2FB75F-CD20-4FB1-B4AC-9582EDB80D45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckRecord", "CheckRecord\CheckRecord.csproj", "{05D42A44-D931-45F0-9316-281440DDBEA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArrayByParity", "SortArrayByParity\SortArrayByParity.csproj", "{9857A3F4-5ECD-46FC-BFE8-F2C5FEA9EF8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -603,6 +607,14 @@ Global
 		{0B2FB75F-CD20-4FB1-B4AC-9582EDB80D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B2FB75F-CD20-4FB1-B4AC-9582EDB80D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B2FB75F-CD20-4FB1-B4AC-9582EDB80D45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D42A44-D931-45F0-9316-281440DDBEA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D42A44-D931-45F0-9316-281440DDBEA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D42A44-D931-45F0-9316-281440DDBEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D42A44-D931-45F0-9316-281440DDBEA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9857A3F4-5ECD-46FC-BFE8-F2C5FEA9EF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9857A3F4-5ECD-46FC-BFE8-F2C5FEA9EF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9857A3F4-5ECD-46FC-BFE8-F2C5FEA9EF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9857A3F4-5ECD-46FC-BFE8-F2C5FEA9EF8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
