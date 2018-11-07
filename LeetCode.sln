@@ -211,6 +211,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPalindrome", "IsPalindrom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{FFE14B4D-E065-44F1-8C55-198BBEE7E071}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsValid", "IsValid\IsValid.csproj", "{7E295B09-2C57-444B-BEC0-D748ECB48FD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -633,6 +635,10 @@ Global
 		{FFE14B4D-E065-44F1-8C55-198BBEE7E071}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFE14B4D-E065-44F1-8C55-198BBEE7E071}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFE14B4D-E065-44F1-8C55-198BBEE7E071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E295B09-2C57-444B-BEC0-D748ECB48FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E295B09-2C57-444B-BEC0-D748ECB48FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E295B09-2C57-444B-BEC0-D748ECB48FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E295B09-2C57-444B-BEC0-D748ECB48FD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
