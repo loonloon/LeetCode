@@ -1,0 +1,7 @@
+C:\Users\loonloon\source\repos\LeetCode\StrStr\bin\Debug\StrStr.exe.config
+C:\Users\loonloon\source\repos\LeetCode\StrStr\bin\Debug\StrStr.exe
+C:\Users\loonloon\source\repos\LeetCode\StrStr\bin\Debug\StrStr.pdb
+C:\Users\loonloon\source\repos\LeetCode\StrStr\obj\Debug\StrStr.csprojAssemblyReference.cache
+C:\Users\loonloon\source\repos\LeetCode\StrStr\obj\Debug\StrStr.csproj.CoreCompileInputs.cache
+C:\Users\loonloon\source\repos\LeetCode\StrStr\obj\Debug\StrStr.exe
+C:\Users\loonloon\source\repos\LeetCode\StrStr\obj\Debug\StrStr.pdb
