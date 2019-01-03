@@ -227,6 +227,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSubArray", "MaxSubArray\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelOrderBottom", "LevelOrderBottom\LevelOrderBottom.csproj", "{35B04EF2-9587-4244-AC10-E69F3560AE41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbStairs", "ClimbStairs\ClimbStairs.csproj", "{EAD4973B-F6A0-41A1-8468-7D1A646D88DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -681,6 +683,10 @@ Global
 		{35B04EF2-9587-4244-AC10-E69F3560AE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35B04EF2-9587-4244-AC10-E69F3560AE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35B04EF2-9587-4244-AC10-E69F3560AE41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD4973B-F6A0-41A1-8468-7D1A646D88DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD4973B-F6A0-41A1-8468-7D1A646D88DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD4973B-F6A0-41A1-8468-7D1A646D88DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD4973B-F6A0-41A1-8468-7D1A646D88DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
