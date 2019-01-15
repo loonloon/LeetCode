@@ -229,6 +229,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelOrderBottom", "LevelOr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbStairs", "ClimbStairs\ClimbStairs.csproj", "{EAD4973B-F6A0-41A1-8468-7D1A646D88DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge", "Merge\Merge.csproj", "{6E9DC852-11B6-46DE-A04C-F7D102BE2030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsSymmetric", "IsSymmetric\IsSymmetric.csproj", "{5BA62747-4394-41F3-9CB6-343E422AC1A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -687,6 +691,14 @@ Global
 		{EAD4973B-F6A0-41A1-8468-7D1A646D88DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAD4973B-F6A0-41A1-8468-7D1A646D88DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAD4973B-F6A0-41A1-8468-7D1A646D88DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E9DC852-11B6-46DE-A04C-F7D102BE2030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9DC852-11B6-46DE-A04C-F7D102BE2030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9DC852-11B6-46DE-A04C-F7D102BE2030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9DC852-11B6-46DE-A04C-F7D102BE2030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BA62747-4394-41F3-9CB6-343E422AC1A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA62747-4394-41F3-9CB6-343E422AC1A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA62747-4394-41F3-9CB6-343E422AC1A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA62747-4394-41F3-9CB6-343E422AC1A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
