@@ -60,7 +60,7 @@ namespace MatrixReshape
                 return nums;
             }
 
-            var reshaprNums = new int[r, c];
+            var reshapeNumbers = new int[r, c];
             var numList = nums.Cast<int>().ToList();
             var queue = new Queue<int>(numList);
 
@@ -68,11 +68,11 @@ namespace MatrixReshape
             {
                 for (var j = 0; j < c; j++)
                 {
-                    reshaprNums[i, j] = queue.Dequeue();
+                    reshapeNumbers[i, j] = queue.Dequeue();
                 }
             }
 
-            return reshaprNums;
+            return reshapeNumbers;
         }
     }
 }

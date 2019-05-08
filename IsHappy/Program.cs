@@ -42,8 +42,8 @@ namespace IsHappy
             while (n > 0)
             {
                 var remainder = n % 10;
-                sum = sum + remainder * remainder;
-                n = n / 10;
+                sum += remainder * remainder;
+                n /= 10;
             }
 
             return IsHappy(sum);

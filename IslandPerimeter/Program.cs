@@ -44,7 +44,7 @@ namespace IslandPerimeter
                 return 0;
             }
 
-            var perimter = 0;
+            var perimeter = 0;
 
             //row
             for (var i = 0; i < grid.GetLength(0); i++)
@@ -57,35 +57,35 @@ namespace IslandPerimeter
                         continue;
                     }
 
-                    perimter += 4;
+                    perimeter += 4;
 
                     //left
                     if (j - 1 >= 0 && grid[i, j - 1] == 1)
                     {
-                        --perimter;
+                        --perimeter;
                     }
 
                     //right
                     if (j + 1 < grid.GetLength(1) && grid[i, j + 1] == 1)
                     {
-                        --perimter;
+                        --perimeter;
                     }
 
                     //up
                     if (i - 1 >= 0 && grid[i - 1, j] == 1)
                     {
-                        --perimter;
+                        --perimeter;
                     }
 
                     //down
                     if (i + 1 < grid.GetLength(0) && grid[i + 1, j] == 1)
                     {
-                        --perimter;
+                        --perimeter;
                     }
                 }
             }
 
-            return perimter;
+            return perimeter;
         }
     }
 }

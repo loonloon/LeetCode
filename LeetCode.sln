@@ -239,6 +239,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveOuterParentheses", "R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatedNTimes", "RepeatedNTimes\RepeatedNTimes.csproj", "{A040CA67-C130-4F2D-AF67-BB2EC23DE1B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedSquares", "SortedSquares\SortedSquares.csproj", "{57FE6D63-3305-42AD-99E2-40AF71F60622}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -717,6 +719,10 @@ Global
 		{A040CA67-C130-4F2D-AF67-BB2EC23DE1B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A040CA67-C130-4F2D-AF67-BB2EC23DE1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A040CA67-C130-4F2D-AF67-BB2EC23DE1B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57FE6D63-3305-42AD-99E2-40AF71F60622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FE6D63-3305-42AD-99E2-40AF71F60622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FE6D63-3305-42AD-99E2-40AF71F60622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FE6D63-3305-42AD-99E2-40AF71F60622}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

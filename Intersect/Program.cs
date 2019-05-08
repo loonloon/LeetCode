@@ -54,7 +54,7 @@ namespace Intersect
 
             foreach (var num in nums2)
             {
-                if (!dictionary.ContainsKey(num) && dictionary[num] > 0)
+                if (!dictionary.ContainsKey(num))
                 {
                     continue;
                 }
