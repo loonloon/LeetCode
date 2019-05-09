@@ -241,6 +241,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatedNTimes", "RepeatedN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedSquares", "SortedSquares\SortedSquares.csproj", "{57FE6D63-3305-42AD-99E2-40AF71F60622}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumUniqueEmails", "NumUniqueEmails\NumUniqueEmails.csproj", "{325700C9-BCFD-4309-AECE-A4094B6AEE12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiStringMatch", "DiStringMatch\DiStringMatch.csproj", "{272B0AB7-C29F-42D8-86B0-B6267FE6CB2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -723,6 +727,14 @@ Global
 		{57FE6D63-3305-42AD-99E2-40AF71F60622}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57FE6D63-3305-42AD-99E2-40AF71F60622}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57FE6D63-3305-42AD-99E2-40AF71F60622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{325700C9-BCFD-4309-AECE-A4094B6AEE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325700C9-BCFD-4309-AECE-A4094B6AEE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325700C9-BCFD-4309-AECE-A4094B6AEE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325700C9-BCFD-4309-AECE-A4094B6AEE12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{272B0AB7-C29F-42D8-86B0-B6267FE6CB2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272B0AB7-C29F-42D8-86B0-B6267FE6CB2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272B0AB7-C29F-42D8-86B0-B6267FE6CB2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272B0AB7-C29F-42D8-86B0-B6267FE6CB2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
