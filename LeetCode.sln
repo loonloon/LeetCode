@@ -251,6 +251,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsUnivalTree", "IsUnivalTre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fib", "Fib\Fib.csproj", "{91E85D8C-C814-4CD4-BF0A-C0C333AD15EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonChars", "CommonChars\CommonChars.csproj", "{05F2C5F5-EE5D-453B-9713-C42DAA40F741}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -753,6 +755,10 @@ Global
 		{91E85D8C-C814-4CD4-BF0A-C0C333AD15EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91E85D8C-C814-4CD4-BF0A-C0C333AD15EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91E85D8C-C814-4CD4-BF0A-C0C333AD15EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F2C5F5-EE5D-453B-9713-C42DAA40F741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F2C5F5-EE5D-453B-9713-C42DAA40F741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F2C5F5-EE5D-453B-9713-C42DAA40F741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F2C5F5-EE5D-453B-9713-C42DAA40F741}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
