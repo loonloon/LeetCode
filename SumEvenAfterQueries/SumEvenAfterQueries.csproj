@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{05F2C5F5-EE5D-453B-9713-C42DAA40F741}</ProjectGuid>
+    <ProjectGuid>{DA934617-609B-4436-BE95-B1AF494E3A03}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CommonChars</RootNamespace>
-    <AssemblyName>CommonChars</AssemblyName>
+    <RootNamespace>SumEvenAfterQueries</RootNamespace>
+    <AssemblyName>SumEvenAfterQueries</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -35,6 +35,12 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
