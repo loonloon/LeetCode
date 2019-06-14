@@ -261,7 +261,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncreasingBST", "Increasing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicates2", "RemoveDuplicates2\RemoveDuplicates2.csproj", "{8ACE2330-265D-46C9-A64C-060C1DA0B3BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumSpecialEquivGroups", "NumSpecialEquivGroups\NumSpecialEquivGroups.csproj", "{A1CE395F-C343-40C5-B961-E48435B7811D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedArrayToBST", "SortedArrayToBST\SortedArrayToBST.csproj", "{17ABBCB2-26B8-41B4-BC5B-5F898DB90FC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -785,10 +785,10 @@ Global
 		{8ACE2330-265D-46C9-A64C-060C1DA0B3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8ACE2330-265D-46C9-A64C-060C1DA0B3BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8ACE2330-265D-46C9-A64C-060C1DA0B3BE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A1CE395F-C343-40C5-B961-E48435B7811D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A1CE395F-C343-40C5-B961-E48435B7811D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A1CE395F-C343-40C5-B961-E48435B7811D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A1CE395F-C343-40C5-B961-E48435B7811D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17ABBCB2-26B8-41B4-BC5B-5F898DB90FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17ABBCB2-26B8-41B4-BC5B-5F898DB90FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17ABBCB2-26B8-41B4-BC5B-5F898DB90FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17ABBCB2-26B8-41B4-BC5B-5F898DB90FC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
