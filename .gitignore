@@ -437,3 +437,8 @@
 /RemoveDuplicates2/bin/Debug
 /RemoveDuplicates2/obj/Debug
 /SortedArrayToBST/obj/Debug
+/HasPathSum/obj
+/IsBalanced/bin/Debug
+/IsBalanced/obj/Debug
+/MinDepth/bin/Debug/netcoreapp2.1
+/MinDepth/obj
