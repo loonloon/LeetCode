@@ -442,3 +442,7 @@
 /IsBalanced/obj/Debug
 /MinDepth/bin/Debug/netcoreapp2.1
 /MinDepth/obj
+/Generate/bin/Debug/netcoreapp2.1
+/Generate/obj
+/GetRow/bin/Debug/netcoreapp2.1
+/GetRow/obj
