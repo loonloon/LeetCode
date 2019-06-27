@@ -269,9 +269,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinDepth", "MinDepth\MinDep
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HasPathSum", "HasPathSum\HasPathSum.csproj", "{5E481998-C407-441F-826C-B23459F463C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generate", "Generate\Generate.csproj", "{11D9C1A4-9222-46E5-BF3A-466C0DBD0B9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generate", "Generate\Generate.csproj", "{11D9C1A4-9222-46E5-BF3A-466C0DBD0B9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetRow", "GetRow\GetRow.csproj", "{89FF65CB-6BFE-450E-A281-4FF83AA91C6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetRow", "GetRow\GetRow.csproj", "{89FF65CB-6BFE-450E-A281-4FF83AA91C6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPalindrome2", "IsPalindrome2\IsPalindrome2.csproj", "{C8E92BCC-848C-4FF7-A6CA-0ABF880308C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -819,6 +821,10 @@ Global
 		{89FF65CB-6BFE-450E-A281-4FF83AA91C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89FF65CB-6BFE-450E-A281-4FF83AA91C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89FF65CB-6BFE-450E-A281-4FF83AA91C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8E92BCC-848C-4FF7-A6CA-0ABF880308C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E92BCC-848C-4FF7-A6CA-0ABF880308C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E92BCC-848C-4FF7-A6CA-0ABF880308C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E92BCC-848C-4FF7-A6CA-0ABF880308C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
