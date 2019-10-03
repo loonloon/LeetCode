@@ -448,3 +448,8 @@
 /GetRow/obj
 /IsPalindrome2/obj/Debug/netcoreapp2.1
 /IsPalindrome2/obj
+/DefangIPaddr/obj
+/MinDeletionSize/bin/Debug/netcoreapp3.0
+/MinDeletionSize/obj
+/UniqueOccurrences/bin/Debug/netcoreapp3.0
+/UniqueOccurrences/obj
