@@ -453,3 +453,8 @@
 /MinDeletionSize/obj
 /UniqueOccurrences/bin/Debug/netcoreapp3.0
 /UniqueOccurrences/obj
+/CountCharacters/bin/Debug/netcoreapp3.0
+/CountCharacters/obj
+/HeightChecker/bin/Debug/netcoreapp3.0
+/HeightChecker/obj
+/RecentCounter/obj

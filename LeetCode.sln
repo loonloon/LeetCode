@@ -275,11 +275,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetRow", "GetRow\GetRow.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsPalindrome2", "IsPalindrome2\IsPalindrome2.csproj", "{C8E92BCC-848C-4FF7-A6CA-0ABF880308C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefangIPaddr", "DefangIPaddr\DefangIPaddr.csproj", "{0309B4FB-D519-4E5A-8A6B-C8158C9D2E6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefangIPaddr", "DefangIPaddr\DefangIPaddr.csproj", "{0309B4FB-D519-4E5A-8A6B-C8158C9D2E6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueOccurrences", "UniqueOccurrences\UniqueOccurrences.csproj", "{F50C2C0E-8D8E-4686-BC03-4D020B0AF650}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniqueOccurrences", "UniqueOccurrences\UniqueOccurrences.csproj", "{F50C2C0E-8D8E-4686-BC03-4D020B0AF650}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinDeletionSize", "MinDeletionSize\MinDeletionSize.csproj", "{3A904590-E073-45B6-8A0E-7D80F0C61FDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinDeletionSize", "MinDeletionSize\MinDeletionSize.csproj", "{3A904590-E073-45B6-8A0E-7D80F0C61FDB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecentCounter", "RecentCounter\RecentCounter.csproj", "{59AC317A-589F-4644-945C-6762EFA6F6BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeightChecker", "HeightChecker\HeightChecker.csproj", "{5322CC50-2588-4D13-8B28-9F1017AFBEFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCharacters", "CountCharacters\CountCharacters.csproj", "{246F533F-B4E3-4FA7-9EA7-E2EC05ABE14E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -843,6 +849,18 @@ Global
 		{3A904590-E073-45B6-8A0E-7D80F0C61FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A904590-E073-45B6-8A0E-7D80F0C61FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A904590-E073-45B6-8A0E-7D80F0C61FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59AC317A-589F-4644-945C-6762EFA6F6BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59AC317A-589F-4644-945C-6762EFA6F6BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59AC317A-589F-4644-945C-6762EFA6F6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59AC317A-589F-4644-945C-6762EFA6F6BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5322CC50-2588-4D13-8B28-9F1017AFBEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5322CC50-2588-4D13-8B28-9F1017AFBEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5322CC50-2588-4D13-8B28-9F1017AFBEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5322CC50-2588-4D13-8B28-9F1017AFBEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{246F533F-B4E3-4FA7-9EA7-E2EC05ABE14E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{246F533F-B4E3-4FA7-9EA7-E2EC05ABE14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{246F533F-B4E3-4FA7-9EA7-E2EC05ABE14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{246F533F-B4E3-4FA7-9EA7-E2EC05ABE14E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
