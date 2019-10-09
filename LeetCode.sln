@@ -295,6 +295,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseOnlyLetters", "Rever
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShortestCompletingWord", "ShortestCompletingWord\ShortestCompletingWord.csproj", "{C8CA07CD-17EB-468D-8838-E2D9CE070842}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GcdOfStrings", "GcdOfStrings\GcdOfStrings.csproj", "{770AB436-F73C-4B8D-A016-D217EE6FA3E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -885,6 +887,10 @@ Global
 		{C8CA07CD-17EB-468D-8838-E2D9CE070842}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8CA07CD-17EB-468D-8838-E2D9CE070842}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8CA07CD-17EB-468D-8838-E2D9CE070842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770AB436-F73C-4B8D-A016-D217EE6FA3E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770AB436-F73C-4B8D-A016-D217EE6FA3E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770AB436-F73C-4B8D-A016-D217EE6FA3E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770AB436-F73C-4B8D-A016-D217EE6FA3E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
