@@ -433,7 +433,6 @@
 /IncreasingBST/obj/Debug
 /NumSpecialEquivGroups/bin/Debug
 /NumSpecialEquivGroups/obj/Debug
-/NumSpecialEquivGroups
 /RemoveDuplicates2/bin/Debug
 /RemoveDuplicates2/obj/Debug
 /SortedArrayToBST/obj/Debug
@@ -479,3 +478,4 @@
 /GcdOfStrings/obj
 /IsAlienSorted/bin/Debug/netcoreapp3.0
 /IsAlienSorted/obj
+/NumSpecialEquivGroups/obj
