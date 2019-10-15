@@ -483,3 +483,7 @@
 /ReorderLogFiles/obj
 /IsLongPressedName/obj
 /IsLongPressedName/bin/Debug/netcoreapp3.0
+/BalancedStringSplit/bin/Debug/netcoreapp3.0
+/BalancedStringSplit/obj
+/HasCycle/bin/Debug/netcoreapp3.0
+/HasCycle/obj
