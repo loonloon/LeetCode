@@ -487,3 +487,9 @@
 /BalancedStringSplit/obj
 /HasCycle/bin/Debug/netcoreapp3.0
 /HasCycle/obj
+/ConvertToTitle/bin/Debug/netcoreapp3.0
+/ConvertToTitle/obj
+/GetIntersectionNode/bin/Debug/netcoreapp3.0
+/GetIntersectionNode/obj
+/MinStack/bin/Debug/netcoreapp3.0
+/MinStack/obj
