@@ -512,3 +512,5 @@
 /SortedArrayToBST/obj/Release
 /SortArrayByParity/obj/Release
 /TrailingZeroes/obj
+/IsIsomorphic/bin/Debug/netcoreapp3.0
+/IsIsomorphic/obj
