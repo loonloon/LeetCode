@@ -327,6 +327,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountPrimes", "CountPrimes\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsIsomorphic", "IsIsomorphic\IsIsomorphic.csproj", "{471856B5-4F12-480D-98FB-9A525E3BEA59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsNearbyDuplicate", "ContainsNearbyDuplicate\ContainsNearbyDuplicate.csproj", "{F7F1590F-B595-44BA-AF36-26D025DE818B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStackUsingQueue", "MyStackUsingQueue\MyStackUsingQueue.csproj", "{91039605-4AE3-4D76-AFE5-779AE71E47D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -981,6 +985,14 @@ Global
 		{471856B5-4F12-480D-98FB-9A525E3BEA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{471856B5-4F12-480D-98FB-9A525E3BEA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{471856B5-4F12-480D-98FB-9A525E3BEA59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F1590F-B595-44BA-AF36-26D025DE818B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F1590F-B595-44BA-AF36-26D025DE818B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F1590F-B595-44BA-AF36-26D025DE818B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F1590F-B595-44BA-AF36-26D025DE818B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91039605-4AE3-4D76-AFE5-779AE71E47D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91039605-4AE3-4D76-AFE5-779AE71E47D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91039605-4AE3-4D76-AFE5-779AE71E47D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91039605-4AE3-4D76-AFE5-779AE71E47D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

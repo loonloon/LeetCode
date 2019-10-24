@@ -514,3 +514,7 @@
 /TrailingZeroes/obj
 /IsIsomorphic/bin/Debug/netcoreapp3.0
 /IsIsomorphic/obj
+/ContainsNearbyDuplicate/obj
+/ContainsNearbyDuplicate/bin/Debug/netcoreapp3.0
+/MyStackUsingQueue/obj
+/MyStackUsingQueue/bin/Debug/netcoreapp3.0
