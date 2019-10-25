@@ -325,11 +325,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveElements", "RemoveEle
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountPrimes", "CountPrimes\CountPrimes.csproj", "{CD01E197-7E4D-4AF0-A00C-20458E8AA07B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsIsomorphic", "IsIsomorphic\IsIsomorphic.csproj", "{471856B5-4F12-480D-98FB-9A525E3BEA59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsIsomorphic", "IsIsomorphic\IsIsomorphic.csproj", "{471856B5-4F12-480D-98FB-9A525E3BEA59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsNearbyDuplicate", "ContainsNearbyDuplicate\ContainsNearbyDuplicate.csproj", "{F7F1590F-B595-44BA-AF36-26D025DE818B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainsNearbyDuplicate", "ContainsNearbyDuplicate\ContainsNearbyDuplicate.csproj", "{F7F1590F-B595-44BA-AF36-26D025DE818B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStackUsingQueue", "MyStackUsingQueue\MyStackUsingQueue.csproj", "{91039605-4AE3-4D76-AFE5-779AE71E47D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyStackUsingQueue", "MyStackUsingQueue\MyStackUsingQueue.csproj", "{91039605-4AE3-4D76-AFE5-779AE71E47D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPowerOfTwo", "IsPowerOfTwo\IsPowerOfTwo.csproj", "{722DC41D-763A-4514-81D3-4FF047BFCCA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyQueueUsingStack", "MyQueueUsingStack\MyQueueUsingStack.csproj", "{A3962EE7-9D69-46E5-8BD8-87DDD4444621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPalindrome3", "IsPalindrome3\IsPalindrome3.csproj", "{28E7AABF-9603-40DD-8166-0433A0E4533E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -993,6 +999,18 @@ Global
 		{91039605-4AE3-4D76-AFE5-779AE71E47D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91039605-4AE3-4D76-AFE5-779AE71E47D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91039605-4AE3-4D76-AFE5-779AE71E47D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{722DC41D-763A-4514-81D3-4FF047BFCCA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722DC41D-763A-4514-81D3-4FF047BFCCA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722DC41D-763A-4514-81D3-4FF047BFCCA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722DC41D-763A-4514-81D3-4FF047BFCCA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3962EE7-9D69-46E5-8BD8-87DDD4444621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3962EE7-9D69-46E5-8BD8-87DDD4444621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3962EE7-9D69-46E5-8BD8-87DDD4444621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3962EE7-9D69-46E5-8BD8-87DDD4444621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28E7AABF-9603-40DD-8166-0433A0E4533E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E7AABF-9603-40DD-8166-0433A0E4533E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E7AABF-9603-40DD-8166-0433A0E4533E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E7AABF-9603-40DD-8166-0433A0E4533E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
