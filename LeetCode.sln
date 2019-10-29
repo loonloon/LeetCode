@@ -331,11 +331,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainsNearbyDuplicate", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyStackUsingQueue", "MyStackUsingQueue\MyStackUsingQueue.csproj", "{91039605-4AE3-4D76-AFE5-779AE71E47D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPowerOfTwo", "IsPowerOfTwo\IsPowerOfTwo.csproj", "{722DC41D-763A-4514-81D3-4FF047BFCCA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsPowerOfTwo", "IsPowerOfTwo\IsPowerOfTwo.csproj", "{722DC41D-763A-4514-81D3-4FF047BFCCA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyQueueUsingStack", "MyQueueUsingStack\MyQueueUsingStack.csproj", "{A3962EE7-9D69-46E5-8BD8-87DDD4444621}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyQueueUsingStack", "MyQueueUsingStack\MyQueueUsingStack.csproj", "{A3962EE7-9D69-46E5-8BD8-87DDD4444621}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPalindrome3", "IsPalindrome3\IsPalindrome3.csproj", "{28E7AABF-9603-40DD-8166-0433A0E4533E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsPalindrome3", "IsPalindrome3\IsPalindrome3.csproj", "{28E7AABF-9603-40DD-8166-0433A0E4533E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowestCommonAncestor", "LowestCommonAncestor\LowestCommonAncestor.csproj", "{284B40F9-9607-4822-806A-DA9BC130C1D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreePaths", "BinaryTreePaths\BinaryTreePaths.csproj", "{FCFCEADF-89A7-4861-BE6C-6B4ED10E9758}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsUgly", "IsUgly\IsUgly.csproj", "{C3F969A1-4CB7-403A-8864-4DE510CA0A9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumber", "MissingNumber\MissingNumber.csproj", "{B5A135AA-5D75-4025-8906-36C4BD224AB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1011,6 +1019,22 @@ Global
 		{28E7AABF-9603-40DD-8166-0433A0E4533E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28E7AABF-9603-40DD-8166-0433A0E4533E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28E7AABF-9603-40DD-8166-0433A0E4533E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{284B40F9-9607-4822-806A-DA9BC130C1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284B40F9-9607-4822-806A-DA9BC130C1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284B40F9-9607-4822-806A-DA9BC130C1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284B40F9-9607-4822-806A-DA9BC130C1D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCFCEADF-89A7-4861-BE6C-6B4ED10E9758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFCEADF-89A7-4861-BE6C-6B4ED10E9758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFCEADF-89A7-4861-BE6C-6B4ED10E9758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFCEADF-89A7-4861-BE6C-6B4ED10E9758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3F969A1-4CB7-403A-8864-4DE510CA0A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F969A1-4CB7-403A-8864-4DE510CA0A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3F969A1-4CB7-403A-8864-4DE510CA0A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3F969A1-4CB7-403A-8864-4DE510CA0A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A135AA-5D75-4025-8906-36C4BD224AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A135AA-5D75-4025-8906-36C4BD224AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A135AA-5D75-4025-8906-36C4BD224AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A135AA-5D75-4025-8906-36C4BD224AB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
