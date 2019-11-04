@@ -532,3 +532,5 @@
 /LowestCommonAncestor/obj
 /MissingNumber/obj
 /FirstBadVersion
+/WordPattern/bin/Debug/netcoreapp3.0
+/WordPattern/obj
