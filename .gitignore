@@ -542,3 +542,13 @@
 /ReverseVowels/obj
 /SumRange/bin/Debug/netcoreapp3.0
 /SumRange/obj
+/GuessNumber/obj
+/IsSubsequence/obj
+/IsSubsequence/bin/Debug/netcoreapp3.0
+/LongestPalindrome/obj
+/LongestPalindrome/bin/Debug/netcoreapp3.0
+/PathSum
+/ReadBinaryWatch/obj
+/ReadBinaryWatch/bin/Debug/netcoreapp3.0
+/ThirdMax/obj
+/ThirdMax/bin/Debug/netcoreapp3.0
