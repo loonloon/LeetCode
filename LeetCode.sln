@@ -367,6 +367,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdMax", "ThirdMax\ThirdM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathSum", "PathSum\PathSum.csproj", "{EBED55B0-E39B-4ECA-9C7D-0FADDE1EBDEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrangeCoins", "ArrangeCoins\ArrangeCoins.csproj", "{CD8B5E86-4745-4003-9A6A-D0DBEEEF1BB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatedSubstringPattern", "RepeatedSubstringPattern\RepeatedSubstringPattern.csproj", "{1E455956-CEFE-47EC-A1F2-431D49BEC433}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1101,6 +1105,14 @@ Global
 		{EBED55B0-E39B-4ECA-9C7D-0FADDE1EBDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBED55B0-E39B-4ECA-9C7D-0FADDE1EBDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBED55B0-E39B-4ECA-9C7D-0FADDE1EBDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8B5E86-4745-4003-9A6A-D0DBEEEF1BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8B5E86-4745-4003-9A6A-D0DBEEEF1BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8B5E86-4745-4003-9A6A-D0DBEEEF1BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8B5E86-4745-4003-9A6A-D0DBEEEF1BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E455956-CEFE-47EC-A1F2-431D49BEC433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E455956-CEFE-47EC-A1F2-431D49BEC433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E455956-CEFE-47EC-A1F2-431D49BEC433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E455956-CEFE-47EC-A1F2-431D49BEC433}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
