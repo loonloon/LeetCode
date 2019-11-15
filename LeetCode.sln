@@ -359,17 +359,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessNumber", "GuessNumber\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsSubsequence", "IsSubsequence\IsSubsequence.csproj", "{F6DA9B50-1FD2-4DE5-B409-AD15BE3F6B49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadBinaryWatch", "ReadBinaryWatch\ReadBinaryWatch.csproj", "{9CDC7E29-0F83-4EA0-BB91-39A030D1F2C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadBinaryWatch", "ReadBinaryWatch\ReadBinaryWatch.csproj", "{9CDC7E29-0F83-4EA0-BB91-39A030D1F2C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPalindrome", "LongestPalindrome\LongestPalindrome.csproj", "{D0E75389-9FC4-4E91-AB9D-776FE5CBEE05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestPalindrome", "LongestPalindrome\LongestPalindrome.csproj", "{D0E75389-9FC4-4E91-AB9D-776FE5CBEE05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdMax", "ThirdMax\ThirdMax.csproj", "{811EF1F6-99B7-47E4-BA6D-D81D899289B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThirdMax", "ThirdMax\ThirdMax.csproj", "{811EF1F6-99B7-47E4-BA6D-D81D899289B4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathSum", "PathSum\PathSum.csproj", "{EBED55B0-E39B-4ECA-9C7D-0FADDE1EBDEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrangeCoins", "ArrangeCoins\ArrangeCoins.csproj", "{CD8B5E86-4745-4003-9A6A-D0DBEEEF1BB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrangeCoins", "ArrangeCoins\ArrangeCoins.csproj", "{CD8B5E86-4745-4003-9A6A-D0DBEEEF1BB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatedSubstringPattern", "RepeatedSubstringPattern\RepeatedSubstringPattern.csproj", "{1E455956-CEFE-47EC-A1F2-431D49BEC433}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepeatedSubstringPattern", "RepeatedSubstringPattern\RepeatedSubstringPattern.csproj", "{1E455956-CEFE-47EC-A1F2-431D49BEC433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfBoomerangs", "NumberOfBoomerangs\NumberOfBoomerangs.csproj", "{6D821712-2614-4FC5-ADB5-F7731A49D579}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1113,6 +1115,10 @@ Global
 		{1E455956-CEFE-47EC-A1F2-431D49BEC433}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E455956-CEFE-47EC-A1F2-431D49BEC433}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E455956-CEFE-47EC-A1F2-431D49BEC433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D821712-2614-4FC5-ADB5-F7731A49D579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D821712-2614-4FC5-ADB5-F7731A49D579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D821712-2614-4FC5-ADB5-F7731A49D579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D821712-2614-4FC5-ADB5-F7731A49D579}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
