@@ -371,7 +371,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrangeCoins", "ArrangeCoin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepeatedSubstringPattern", "RepeatedSubstringPattern\RepeatedSubstringPattern.csproj", "{1E455956-CEFE-47EC-A1F2-431D49BEC433}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfBoomerangs", "NumberOfBoomerangs\NumberOfBoomerangs.csproj", "{6D821712-2614-4FC5-ADB5-F7731A49D579}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfBoomerangs", "NumberOfBoomerangs\NumberOfBoomerangs.csproj", "{6D821712-2614-4FC5-ADB5-F7731A49D579}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetHint", "GetHint\GetHint.csproj", "{5DF54EEE-38B9-4F22-B944-46B7B38B9A3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1119,6 +1121,10 @@ Global
 		{6D821712-2614-4FC5-ADB5-F7731A49D579}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D821712-2614-4FC5-ADB5-F7731A49D579}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D821712-2614-4FC5-ADB5-F7731A49D579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF54EEE-38B9-4F22-B944-46B7B38B9A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF54EEE-38B9-4F22-B944-46B7B38B9A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF54EEE-38B9-4F22-B944-46B7B38B9A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF54EEE-38B9-4F22-B944-46B7B38B9A3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

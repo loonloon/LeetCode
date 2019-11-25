@@ -558,3 +558,7 @@
 /RepeatedSubstringPattern/obj
 /NumberOfBoomerangs/bin/Debug/netcoreapp3.0
 /NumberOfBoomerangs/obj
+/CommonChars/obj/Release
+/GetHint/bin/Debug/netcoreapp3.0
+/GetHint/obj
+/IsUnivalTree/obj/Release
