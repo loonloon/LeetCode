@@ -375,6 +375,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfBoomerangs", "Numbe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetHint", "GetHint\GetHint.csproj", "{5DF54EEE-38B9-4F22-B944-46B7B38B9A3C}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LicenseKeyFormatting", "LicenseKeyFormatting\LicenseKeyFormatting.csproj", "{D7D02BED-DB9A-4877-A37B-132E9CFC10EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1125,6 +1127,10 @@ Global
 		{5DF54EEE-38B9-4F22-B944-46B7B38B9A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DF54EEE-38B9-4F22-B944-46B7B38B9A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DF54EEE-38B9-4F22-B944-46B7B38B9A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7D02BED-DB9A-4877-A37B-132E9CFC10EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D02BED-DB9A-4877-A37B-132E9CFC10EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D02BED-DB9A-4877-A37B-132E9CFC10EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D02BED-DB9A-4877-A37B-132E9CFC10EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
