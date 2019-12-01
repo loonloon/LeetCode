@@ -377,6 +377,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetHint", "GetHint\GetHint.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LicenseKeyFormatting", "LicenseKeyFormatting\LicenseKeyFormatting.csproj", "{D7D02BED-DB9A-4877-A37B-132E9CFC10EF}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMode", "FindMode\FindMode.csproj", "{FF144CED-2EDC-4A1A-88C2-FF3E8C4AB278}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1131,6 +1133,10 @@ Global
 		{D7D02BED-DB9A-4877-A37B-132E9CFC10EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7D02BED-DB9A-4877-A37B-132E9CFC10EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7D02BED-DB9A-4877-A37B-132E9CFC10EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF144CED-2EDC-4A1A-88C2-FF3E8C4AB278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF144CED-2EDC-4A1A-88C2-FF3E8C4AB278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF144CED-2EDC-4A1A-88C2-FF3E8C4AB278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF144CED-2EDC-4A1A-88C2-FF3E8C4AB278}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

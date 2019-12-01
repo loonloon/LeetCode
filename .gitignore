@@ -563,3 +563,5 @@
 /GetHint/obj
 /IsUnivalTree/obj/Release
 /LicenseKeyFormatting/obj
+/FindMode/bin/Debug/netcoreapp3.0
+/FindMode/obj
