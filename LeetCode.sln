@@ -379,6 +379,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LicenseKeyFormatting", "Lic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMode", "FindMode\FindMode.csproj", "{FF144CED-2EDC-4A1A-88C2-FF3E8C4AB278}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JudgeSquareSum", "JudgeSquareSum\JudgeSquareSum.csproj", "{FE46991D-4954-46C3-83C9-2B611DE06CDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1137,6 +1139,10 @@ Global
 		{FF144CED-2EDC-4A1A-88C2-FF3E8C4AB278}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF144CED-2EDC-4A1A-88C2-FF3E8C4AB278}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF144CED-2EDC-4A1A-88C2-FF3E8C4AB278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE46991D-4954-46C3-83C9-2B611DE06CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE46991D-4954-46C3-83C9-2B611DE06CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE46991D-4954-46C3-83C9-2B611DE06CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE46991D-4954-46C3-83C9-2B611DE06CDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
