@@ -567,3 +567,6 @@
 /FindMode/obj
 /JudgeSquareSum/bin/Debug/netcoreapp3.1
 /JudgeSquareSum/obj
+/BuddyStrings/obj
+/BuddyStrings/bin/Debug/netcoreapp3.1
+/ToLowerCase
