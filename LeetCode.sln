@@ -381,7 +381,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMode", "FindMode\FindMo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JudgeSquareSum", "JudgeSquareSum\JudgeSquareSum.csproj", "{FE46991D-4954-46C3-83C9-2B611DE06CDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuddyStrings", "BuddyStrings\BuddyStrings.csproj", "{C0C3509A-D93F-4267-BD12-96E61BDD39C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuddyStrings", "BuddyStrings\BuddyStrings.csproj", "{C0C3509A-D93F-4267-BD12-96E61BDD39C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatedStringMatch", "RepeatedStringMatch\RepeatedStringMatch.csproj", "{B61CA52A-98F5-4308-A8EF-01556469580C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1149,6 +1151,10 @@ Global
 		{C0C3509A-D93F-4267-BD12-96E61BDD39C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0C3509A-D93F-4267-BD12-96E61BDD39C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0C3509A-D93F-4267-BD12-96E61BDD39C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B61CA52A-98F5-4308-A8EF-01556469580C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B61CA52A-98F5-4308-A8EF-01556469580C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B61CA52A-98F5-4308-A8EF-01556469580C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B61CA52A-98F5-4308-A8EF-01556469580C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
