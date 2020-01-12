@@ -571,3 +571,7 @@
 /BuddyStrings/bin/Debug/netcoreapp3.1
 /ToLowerCase
 /RepeatedStringMatch/obj
+/FindRestaurant/bin/Debug/netcoreapp3.1
+/FindRestaurant/obj
+/FindUnsortedSubarray/bin/Debug/netcoreapp3.1
+/FindUnsortedSubarray/obj
