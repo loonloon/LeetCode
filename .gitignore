@@ -581,3 +581,7 @@
 /NumberOfSteps/obj
 /DuplicateZeros/bin/Debug/netcoreapp3.1
 /DuplicateZeros/obj
+/FindNumbers/bin/Debug/netcoreapp3.1
+/FindNumbers/obj
+/IsBalanced/obj/Release
+/Reverse/obj/Release
