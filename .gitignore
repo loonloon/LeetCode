@@ -585,3 +585,9 @@
 /FindNumbers/obj
 /IsBalanced/obj/Release
 /Reverse/obj/Release
+/ValidPalindrome/bin/Debug/netcoreapp3.1
+/ValidPalindrome/obj
+/Merge/obj/Release
+/NumUniqueEmails/obj/Release
+/CheckStraightLine/bin/Debug/netcoreapp3.1
+/CheckStraightLine/obj
