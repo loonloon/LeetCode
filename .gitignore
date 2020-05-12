@@ -595,3 +595,5 @@
 /SmallerNumbersThanCurrent/obj
 /FindLucky/bin/Debug/netcoreapp3.1
 /FindLucky/obj
+/CreateTargetArray/bin/Debug/netcoreapp3.1
+/CreateTargetArray/obj
