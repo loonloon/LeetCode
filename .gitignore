@@ -597,3 +597,5 @@
 /FindLucky/obj
 /CreateTargetArray/bin/Debug/netcoreapp3.1
 /CreateTargetArray/obj
+/GetDecimalValue/bin/Debug/netcoreapp3.1
+/GetDecimalValue/obj
