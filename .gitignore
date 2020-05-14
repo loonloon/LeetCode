@@ -599,3 +599,5 @@
 /CreateTargetArray/obj
 /GetDecimalValue/bin/Debug/netcoreapp3.1
 /GetDecimalValue/obj
+/DecompressRLElist/bin/Debug/netcoreapp3.1
+/DecompressRLElist/obj
