@@ -601,3 +601,5 @@
 /GetDecimalValue/obj
 /DecompressRLElist/bin/Debug/netcoreapp3.1
 /DecompressRLElist/obj
+/StringMatching/bin/Debug/netcoreapp3.1
+/StringMatching/obj
