@@ -603,3 +603,5 @@
 /DecompressRLElist/obj
 /StringMatching/bin/Debug/netcoreapp3.1
 /StringMatching/obj
+/CheckPossibility/bin/Debug/netcoreapp3.1
+/CheckPossibility/obj

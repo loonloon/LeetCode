@@ -409,9 +409,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreateTargetArray", "Create
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetDecimalValue", "GetDecimalValue\GetDecimalValue.csproj", "{445CD494-40C6-4BBF-A3EF-D08DC5F927A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecompressRLElist", "DecompressRLElist\DecompressRLElist.csproj", "{B47CE9C5-9FD6-44BB-8F4D-E61F9DF3DDF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecompressRLElist", "DecompressRLElist\DecompressRLElist.csproj", "{B47CE9C5-9FD6-44BB-8F4D-E61F9DF3DDF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMatching", "StringMatching\StringMatching.csproj", "{7BFB4250-68ED-46F1-94D4-3986158DD537}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringMatching", "StringMatching\StringMatching.csproj", "{7BFB4250-68ED-46F1-94D4-3986158DD537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPossibility", "CheckPossibility\CheckPossibility.csproj", "{D3373939-48CA-4184-B9F6-9ED2D86D47E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1239,6 +1241,10 @@ Global
 		{7BFB4250-68ED-46F1-94D4-3986158DD537}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BFB4250-68ED-46F1-94D4-3986158DD537}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BFB4250-68ED-46F1-94D4-3986158DD537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3373939-48CA-4184-B9F6-9ED2D86D47E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3373939-48CA-4184-B9F6-9ED2D86D47E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3373939-48CA-4184-B9F6-9ED2D86D47E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3373939-48CA-4184-B9F6-9ED2D86D47E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
