@@ -605,3 +605,11 @@
 /StringMatching/obj
 /CheckPossibility/bin/Debug/netcoreapp3.1
 /CheckPossibility/obj
+/ConstructRectangle/obj
+/ConstructRectangle/bin/Debug/netcoreapp3.1
+/ConvertToBase7/obj
+/ConvertToBase7/bin/Debug/netcoreapp3.1
+/FindContentChildren/obj
+/SummaryRanges/obj
+/SummaryRanges/bin/Debug/netcoreapp3.1
+/ValidMountainArray
