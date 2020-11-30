@@ -56,7 +56,7 @@ namespace CheckPerfectNumber
                 return false;
             }
 
-            var sum = 0;
+            var sum = 1;
             var sqrt = Math.Sqrt(num);
 
             for (var i = 2; i <= sqrt; i++)
@@ -67,7 +67,6 @@ namespace CheckPerfectNumber
                 }
             }
 
-            sum++;
             return sum == num;
         }
     }
