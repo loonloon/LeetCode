@@ -423,9 +423,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructRectangle", "Const
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertToBase7", "ConvertToBase7\ConvertToBase7.csproj", "{7775C278-E462-41FB-871D-464533239FD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindRelativeRanks", "FindRelativeRanks\FindRelativeRanks.csproj", "{55126DC4-E52C-49C2-9B1D-FF64DA063013}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindRelativeRanks", "FindRelativeRanks\FindRelativeRanks.csproj", "{55126DC4-E52C-49C2-9B1D-FF64DA063013}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPerfectNumber", "CheckPerfectNumber\CheckPerfectNumber.csproj", "{C393889E-BCB8-4FC2-AE13-D9CA82D1357A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckPerfectNumber", "CheckPerfectNumber\CheckPerfectNumber.csproj", "{C393889E-BCB8-4FC2-AE13-D9CA82D1357A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTwoNumbers", "AddTwoNumbers\AddTwoNumbers.csproj", "{6DDC1025-1FB5-42D0-8248-B8139EAD6871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLongestSubstring", "LengthOfLongestSubstring\LengthOfLongestSubstring.csproj", "{7442F8B7-4A87-4354-884C-12C09CA5F4FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1281,6 +1285,14 @@ Global
 		{C393889E-BCB8-4FC2-AE13-D9CA82D1357A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C393889E-BCB8-4FC2-AE13-D9CA82D1357A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C393889E-BCB8-4FC2-AE13-D9CA82D1357A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DDC1025-1FB5-42D0-8248-B8139EAD6871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DDC1025-1FB5-42D0-8248-B8139EAD6871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DDC1025-1FB5-42D0-8248-B8139EAD6871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DDC1025-1FB5-42D0-8248-B8139EAD6871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7442F8B7-4A87-4354-884C-12C09CA5F4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7442F8B7-4A87-4354-884C-12C09CA5F4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7442F8B7-4A87-4354-884C-12C09CA5F4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7442F8B7-4A87-4354-884C-12C09CA5F4FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
