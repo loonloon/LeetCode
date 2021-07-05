@@ -623,3 +623,7 @@
 /LengthOfLongestSubstring/obj
 /DiameterOfBinaryTree/bin/Debug/netcoreapp3.1
 /DiameterOfBinaryTree/obj
+/FindLHS/obj
+/FindLHS/bin/Debug/net5.0
+/FindPoisonedDuration/obj
+/FindPoisonedDuration/bin/Debug/net5.0
